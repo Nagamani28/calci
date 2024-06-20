@@ -1,0 +1,26 @@
+{
+  "name": "7193",
+  "version": "1.0.0",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandana",
+  "license": "ISC",
+  "keywords": [
+    "calculator"
+  ],
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagamani28/calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nagamani28/calculator/issues"
+  },
+  "homepage": "https://github.com/Nagamani28/calculator#readme",
+  "description": ""
+}
